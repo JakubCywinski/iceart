@@ -34,7 +34,7 @@ export const Container = styled.div`
         justify-content: space-between;
         align-items: center;
         position: relative;
-        height: 28vmax;
+        height: 25rem;
 
         @media (max-width: 1024px) {
             align-items: flex-end;
